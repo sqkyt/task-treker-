@@ -1,0 +1,19 @@
+# Папка виртуального окружения (venv)
+venv/
+.venv/
+
+# Кэш Python (ненужные служебные файлы)
+__pycache__/
+*.pyc
+
+# Файлы IDE (VS Code, PyCharm)
+.idea/
+.vscode/
+
+# Секретные данные (пароли, ключи)
+.env
+*.env
+
+# Системные файлы (Mac/Windows)
+.DS_Store  # Mac
+Thumbs.db  # Windows
